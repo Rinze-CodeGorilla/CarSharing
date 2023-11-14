@@ -1,0 +1,12 @@
+package carsharing;
+
+public enum MenuState {
+    MAIN,
+    MANAGER,
+    EXIT,
+    LIST,
+    CREATE,
+    COMPANY,
+    LIST_CARS,
+    CREATE_CAR, LIST_CUSTOMERS, CREATE_CUSTOMER, CUSTOMER, RENT_CAR, RETURN_CAR, MY_CAR, CHOOSE_CAR,
+}
